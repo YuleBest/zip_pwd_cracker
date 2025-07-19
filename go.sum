@@ -1,0 +1,4 @@
+github.com/alexmullins/zip v0.0.0-20180717182244-4affb64b04d0 h1:BVts5dexXf4i+JX8tXlKT0aKoi38JwTXSe+3WUneX0k=
+github.com/alexmullins/zip v0.0.0-20180717182244-4affb64b04d0/go.mod h1:FDIQmoMNJJl5/k7upZEnGvgWVZfFeE6qHeN7iCMbCsA=
+golang.org/x/crypto v0.40.0 h1:r4x+VvoG5Fm+eJcxMaY8CQM7Lb0l1lsmjGBQ6s8BfKM=
+golang.org/x/crypto v0.40.0/go.mod h1:Qr1vMER5WyS2dfPHAlsOj01wgLbsyWtFn/aY+5+ZdxY=
